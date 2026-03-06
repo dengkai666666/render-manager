@@ -18,4 +18,4 @@ crons = ["*/5 * * * *"]  # 每5分钟执行
 # 环境变量
 [vars]
 ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "dengkaiguet@@321"
+ADMIN_PASSWORD = ""
